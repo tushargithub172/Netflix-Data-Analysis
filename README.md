@@ -6,7 +6,7 @@ This project aims to analyze Netflix's content catalog over the past 10 years, l
 ---
 
 ## 📂 Dataset Used
-**Source:** [Kaggle - Netflix Dataset](https://github.com/tushargithub172/Netflix-Data-Analysis/blob/main/Netflix-Data-Analysis.xlsx)  
+**Source:** [Netflix Dataset](https://github.com/tushargithub172/Netflix-Data-Analysis/blob/main/Netflix-Data-Analysis.xlsx)  
 **Content:**
 - 🗺️ Data on movies and TV shows available on Netflix
 - 📊 Attributes such as country, release year, content type (movie or TV show), and duration
